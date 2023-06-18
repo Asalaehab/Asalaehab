@@ -3,7 +3,7 @@
 
 
 
-<!-- 🌱 I’m currently learning Data Anlysis & Machine Learing-->
+ 🌱 I’m currently learning Data Anlysis & Machine Learing
 
 
 
