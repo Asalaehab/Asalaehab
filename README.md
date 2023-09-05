@@ -13,17 +13,27 @@
         <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
         <code><a href="https://matplotlib.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
         <code><a href="" target="_blank"><img height="45" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>
-      </p>
+     </p>
 
 
+[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
 
+I'm a Computer Science Enthusiast , Currently in Final year 🤓
+
+
+-🌱 I’m currently learning Data Anlysis & Machine Learing and problem solving with cpp
+
+- 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com/in/asala-ehab-799027231/) 
+
+,[![codeforces Badge](https://codeforces.com/profile/asalaehab)
+- ⚡ Fun fact: Jack of all trades , Master of None !
 
 
 - ![Github_stats](https://github-readme-stats.vercel.app/api?username=asalaehab&count_private=true&show_icons=true&theme=radical)
 - ![Top_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASALAEhab&show_icons=true&theme=radical)
 
-<h3 align="center">
- 🌱 I’m currently learning Data Anlysis & Machine Learing</h3>
+
 
 
 
