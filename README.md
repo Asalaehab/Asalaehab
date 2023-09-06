@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/asala-ehab-799027231/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
+  <a href="https://codeforces.com/profile/asalaehab">
+    <img src="https://img.shields.io/badge/-Codeforces-blue?style=flat-square&logo=Codeforces&logoColor=white">
+  </a>
 </p>
 
 <h3 align="center">My Knowledge <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
@@ -33,10 +36,10 @@
   <p>Computer Science Enthusiast | Final Year Student 🤓</p>
 </div>
 
-<span align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asalaehab&count_private=true&show_icons=true&theme=radical" alt="Github_stats">
-</span>
+</div>
 
-<span align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASALAEhab&show_icons=true&theme=radical" alt="Top_languages">
-</span>
+</div>
