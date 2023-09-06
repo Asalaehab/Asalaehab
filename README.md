@@ -36,10 +36,10 @@
   <p>Computer Science Enthusiast | Final Year Student 🤓</p>
 </div>
 
-<div align="center">
+<span align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=asalaehab&count_private=true&show_icons=true&theme=radical" alt="Github_stats">
-</div>
+</span>
 
-<div align="center">
+<span align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASALAEhab&show_icons=true&theme=radical" alt="Top_languages">
-</div>
+</span>
