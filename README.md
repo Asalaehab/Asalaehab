@@ -21,7 +21,12 @@
   <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
   <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
   <code><a href="https://matplotlib.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
-  <code><a href="" target="_blank"><img height="45" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>
+  <code><a href="" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg"></a></code>
+  <code><a href="https://www.java.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
+  <code><a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+  <code><a href="https://www.w3schools.com/sql/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+  <code><a href="https://www.djangoproject.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 </p>
 
 <div align="center">
