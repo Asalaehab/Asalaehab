@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hey there! I'm Asala Ehab <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-  <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="400px" style="background-color: black;">
+  <img src="https://cdn.dribbble.com/users/452800/screenshots/2423898/icon.gif" style="background-color: black;">
 </div>
 
 <!-- Rest of your content... -->
