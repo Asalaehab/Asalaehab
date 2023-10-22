@@ -6,9 +6,7 @@
 <!-- Rest of your content... -->
 
 
-<p align="center">
-  🌱 I’m currently learning Data Analysis & Machine Learning and problem-solving with C++
-</p>
+
 
 <p align="center">
   📫 How to reach me: 
@@ -18,25 +16,12 @@
   <a href="https://codeforces.com/profile/asalaehab">
     <img src="https://img.shields.io/badge/-Codeforces-blue?style=flat-square&logo=Codeforces&logoColor=white">
   </a>
-</p>
+<!-- </p>
 
-<h3 align="center">My Knowledge <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-<p align="center">
-  <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-  <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-  <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-  <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
-  <code><a href="https://matplotlib.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
-<img height="45" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg">
-  <code><a href="https://www.java.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
-  <code><a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-  <code><a href="https://www.w3schools.com/sql/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-  <code><a href="https://www.djangoproject.com/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
-</p>
+
 
 <div align="center">
-  <p>Computer Science Enthusiast | Final Year Student 🤓</p>
+  <p> Final Year Student 🤓</p>
 </div>
 
 <span align="left">
